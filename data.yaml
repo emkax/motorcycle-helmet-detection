@@ -1,0 +1,13 @@
+train: /content/Motorcycle-Rider-Helmets-2/train/
+val: /content/Motorcycle-Rider-Helmets-2/val/
+
+
+nc: 4
+names: ['Full-Faced', 'Half-Faced', 'Invalid', 'Not-Wearing-Helmet']
+
+roboflow:
+  workspace: fa2-data-preprocessing
+  project: motorcycle-rider-helmets-rx2vx
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fa2-data-preprocessing/motorcycle-rider-helmets-rx2vx/dataset/2

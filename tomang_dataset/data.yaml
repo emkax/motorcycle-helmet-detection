@@ -1,0 +1,5 @@
+train: /content/datasetfr/train/images
+val: /content/datasetfr/valid/images
+
+nc: 3
+names: ['full-face helmet', 'half-face helmet', 'no helmet']

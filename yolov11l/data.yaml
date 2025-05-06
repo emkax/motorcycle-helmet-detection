@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['full-faced', 'half-faced', 'invalid', 'no helmet']
+
+roboflow:
+  workspace: data-science-173-msp9r
+  project: motorcycle-helmet-detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/data-science-173-msp9r/motorcycle-helmet-detection/dataset/2

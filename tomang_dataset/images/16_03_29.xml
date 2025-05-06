@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>16_03_29.png</filename>
+	<path>F:\dataset\16_03_29.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1617</xmin>
+			<ymin>496</ymin>
+			<xmax>1647</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>half-face helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1451</xmin>
+			<ymin>461</ymin>
+			<xmax>1492</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>half-face helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1543</xmin>
+			<ymin>420</ymin>
+			<xmax>1576</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>
